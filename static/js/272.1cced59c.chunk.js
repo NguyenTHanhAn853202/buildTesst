@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhotel=self.webpackChunkhotel||[]).push([[272],{272:function(e,n,t){t.r(n);var u=t(184);n.default=function(){return(0,u.jsx)("div",{children:"Home"})}}}]);
+//# sourceMappingURL=272.1cced59c.chunk.js.map
